@@ -1,4 +1,6 @@
 
+link: http://web.uvic.ca/~nmehta/ml_theory_spring2018/
+
 
 - Course overview; Introduction 	Lecture 1 (revised on 1/4).  Quiz (due at the start of class Friday)
 - Mistake bound model; Halving algorithm 	Lecture 2 (revised on 1/9)
